@@ -4,7 +4,7 @@ My name is Elvis Ruci. I am just a random passionate developer who's entire free
 
 - 🔭 I’m currently working on creating an app to help me with my budgeting by reading the transactions from my bank and using the data to forcast my spendings for the current month to help not loose touch with my spending habbits. 
 
-- 🌱 I’m currently learning mobile developement in flutter, thanks to my desire to have some tools readily accesable from my phone at any time.
+- 🌱 I’m currently learning mobile development in flutter, thanks to my desire to have some tools readily accesable from my phone at any time.
 
 - 📫 If you need to reach me for any reason you can do so here: elvisruci00@gmail.com
 
